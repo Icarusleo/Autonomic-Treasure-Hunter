@@ -1,0 +1,11 @@
+C:\Users\eyup1\source\repos\Otonom_Hazine_Avcısı\Otonom_Hazine_Avcısı\bin\Debug\Otonom_Hazine_Avcısı.exe.config
+C:\Users\eyup1\source\repos\Otonom_Hazine_Avcısı\Otonom_Hazine_Avcısı\bin\Debug\Otonom_Hazine_Avcısı.exe
+C:\Users\eyup1\source\repos\Otonom_Hazine_Avcısı\Otonom_Hazine_Avcısı\bin\Debug\Otonom_Hazine_Avcısı.pdb
+C:\Users\eyup1\source\repos\Otonom_Hazine_Avcısı\Otonom_Hazine_Avcısı\obj\Debug\Otonom_Hazine_Avcısı.csproj.AssemblyReference.cache
+C:\Users\eyup1\source\repos\Otonom_Hazine_Avcısı\Otonom_Hazine_Avcısı\obj\Debug\Otonom_Hazine_Avcısı.Form1.resources
+C:\Users\eyup1\source\repos\Otonom_Hazine_Avcısı\Otonom_Hazine_Avcısı\obj\Debug\Otonom_Hazine_Avcısı.Form2.resources
+C:\Users\eyup1\source\repos\Otonom_Hazine_Avcısı\Otonom_Hazine_Avcısı\obj\Debug\Otonom_Hazine_Avcısı.Properties.Resources.resources
+C:\Users\eyup1\source\repos\Otonom_Hazine_Avcısı\Otonom_Hazine_Avcısı\obj\Debug\Otonom_Hazine_Avcısı.csproj.GenerateResource.cache
+C:\Users\eyup1\source\repos\Otonom_Hazine_Avcısı\Otonom_Hazine_Avcısı\obj\Debug\Otonom_Hazine_Avcısı.csproj.CoreCompileInputs.cache
+C:\Users\eyup1\source\repos\Otonom_Hazine_Avcısı\Otonom_Hazine_Avcısı\obj\Debug\Otonom_Hazine_Avcısı.exe
+C:\Users\eyup1\source\repos\Otonom_Hazine_Avcısı\Otonom_Hazine_Avcısı\obj\Debug\Otonom_Hazine_Avcısı.pdb
